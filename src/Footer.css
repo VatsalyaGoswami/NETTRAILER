@@ -1,0 +1,16 @@
+.Footer{
+    background-color: black;
+    width:100%;
+    object-fit:contain;
+    height:40px;
+    
+    align-items: center;
+}
+
+.Footer-text{
+    color:white;
+    font:20px;
+    align-self: center;
+    margin-left:50%;
+
+}
